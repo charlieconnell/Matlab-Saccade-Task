@@ -60,7 +60,7 @@ oldEnableFlag = Screen('Preference', 'SuppressAllWarnings', 1);
 % Defining the location data will be stored
 %--------------------------------------------------------------------------
 
-data_directory = 'C:\Users\fMRI Eyetracker\Desktop\Visual_Test_Battery\Charlotte_Saccade\Prosaccade Task\Data';
+data_directory = '**insert desired data directory here**';
 Date_and_time = fix(clock);
 
 %--------------------------------------------------------------------------
